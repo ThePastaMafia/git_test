@@ -1,1 +1,1 @@
-# git_test
+Just a bit of text for the Odin Project exercise# git_test:q
